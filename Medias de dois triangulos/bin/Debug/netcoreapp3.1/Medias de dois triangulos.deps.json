@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Medias de dois triangulos/1.0.0": {
+        "runtime": {
+          "Medias de dois triangulos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Medias de dois triangulos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
