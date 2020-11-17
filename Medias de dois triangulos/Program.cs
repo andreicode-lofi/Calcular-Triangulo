@@ -7,6 +7,7 @@ namespace Medias_de_dois_triangulos
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Sejá bem vindo");
             string opc = "s";
 
             while (opc == "s" || opc == "S")

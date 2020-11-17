@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\Medias de dois triangulos\\Medias de dois triangulos\\Medias de dois triangulos.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\pasta clone\\Calcular-Tri-ngulo\\Medias de dois triangulos\\Medias de dois triangulos.csproj",
       "projectName": "Medias de dois triangulos",
-      "projectPath": "C:\\Users\\andre\\source\\repos\\Medias de dois triangulos\\Medias de dois triangulos\\Medias de dois triangulos.csproj",
+      "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\pasta clone\\Calcular-Tri-ngulo\\Medias de dois triangulos\\Medias de dois triangulos.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\source\\repos\\Medias de dois triangulos\\Medias de dois triangulos\\obj\\",
+      "outputPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\pasta clone\\Calcular-Tri-ngulo\\Medias de dois triangulos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
